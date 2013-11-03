@@ -211,7 +211,7 @@ border-radius:5px;
 /* 3.1 Fonts */
 
 h1, h2 {
-font-family: 'Bree Serif', serif;
+font-family: 'Roboto', sans-serif;
 }
 
 #main_content h2 {
@@ -254,14 +254,17 @@ h5{font-size: 1.2em;}
 
 #description p {
 	font-size: 20px;
-	/*line-height: 26px;*/
 	padding-bottom: 16px;
 }
 
-#description li {
-	font-size: 20px;
+#description ul {
+    padding-left: 24px;
 	padding-bottom: 8px;
-	list-style-type: circle;
+}
+
+#description li {
+    font-size: 20px;
+    padding-bottom: 8px;
 }
 
 /* 3.2 Headings */
@@ -305,9 +308,9 @@ margin-bottom:15px;
 }
 
 #main_content h2 {
-font-family: 'Bree Serif', serif;	
+font-family: 'Roboto', sans-serif;	
 font-weight:400;
-color:#333;
+color:#ff5400;
 font-size:2.0em;
 }
 
@@ -441,7 +444,7 @@ display:inline-block;
 /* 6.2 Features */
 
 #features ul, #features ul li {
-list-style:circle;
+/*list-style:circle;*/
 padding:0;
 }
 
