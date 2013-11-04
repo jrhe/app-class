@@ -78,6 +78,11 @@ background:#fff;
 border-bottom:1px solid #e5e5e5;
 }
 
+.background_orange {
+    background: #ff5400;
+    border-bottom: 1px solid #e5e5e5;
+}
+
 .hint {
 font-size:0.9em;
 color:#ffffff;
@@ -569,11 +574,15 @@ text-align:center;
 padding:25px 0 25px 0;
 }
 
+#newsletter .form {
+    padding-top: 12px;
+}
+
 #newsletter h2 {
 width:460px;
 margin:0 20px 0 0;
 float:left;
-color:#737373;
+color:#FFF;
 }
 
 #newsletter #e-mail {
@@ -601,7 +610,7 @@ background: -o-linear-gradient(top,  #97bf0f 0%,#73a726 100%); /* Opera 11.10+ *
 background: -ms-linear-gradient(top,  #97bf0f 0%,#73a726 100%); /* IE10+ */
 background: linear-gradient(to bottom,  #97bf0f 0%,#73a726 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#97bf0f', endColorstr='#73a726',GradientType=0 ); /* IE6-8 */
-font-family: 'Bree Serif', serif;
+font-family: 'Roboto', sans-serif;
 color:#fff;	
 font-size:1.4em;
 text-shadow:0 -1px #35490e;
