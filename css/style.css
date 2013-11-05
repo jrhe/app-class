@@ -405,7 +405,7 @@ overflow:hidden;
 /* 5.2 Banner */
 
 #banner {
-background:url(../images/backgrounds/bg_banner_14.jpg) no-repeat center top #999;
+background:url(../images/backgrounds/bg_linen.jpg) no-repeat center top #999;
 background-attachment:fixed;
 background-size:cover;
 -moz-background-size:cover;
@@ -573,6 +573,10 @@ display:inline-block;
 text-align:center;
 }
 
+#author_copy p {
+    font-size: 18px;
+    padding-bottom: 10px;
+}
 
 /* 6.6 Newsletter */
 
