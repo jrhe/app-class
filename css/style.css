@@ -267,9 +267,15 @@ h5{font-size: 1.2em;}
 	padding-bottom: 8px;
 }
 
+#description ol {
+    padding-left: 24px;
+    padding-bottom: 8px;
+}
+
 #description li {
     font-size: 20px;
     padding-bottom: 8px;
+    padding-left: :5px;
 }
 
 /* 3.2 Headings */
