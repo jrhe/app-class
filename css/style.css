@@ -578,6 +578,11 @@ text-align:center;
     padding-bottom: 10px;
 }
 
+#author_hint {
+font-size:0.9em;
+color:#000000;
+}
+
 /* 6.6 Newsletter */
 
 #newsletter.row {
