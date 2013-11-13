@@ -208,6 +208,33 @@ border-radius:5px;
 }
 
 
+
+/*.styled-select select {
+    background: transparent;
+    width: 176px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    line-height: 1;
+    border: 0;
+    padding: 5px;
+    height: 44px;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+.styled-select {
+   width: 160px;
+   height: 44px;
+   margin-top: 10px;
+   padding-left: 10px;
+   overflow: hidden;
+   background: url(../images/bg_button_green.png) no-repeat left -5px;
+   border: none;
+   }*/
+
+
+
+
 /*------------------------------------------------------------------------------------------*/
 /* 3. Fonts and Headings */
 /*------------------------------------------------------------------------------------------*/
